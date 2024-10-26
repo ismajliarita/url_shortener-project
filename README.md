@@ -21,7 +21,7 @@ A simple URL shortener service built with Node.js, Express, and MongoDB.
    npm start
 
    //and in another terminal
-   cd frontend
+   cd front
    npm start
 
 
