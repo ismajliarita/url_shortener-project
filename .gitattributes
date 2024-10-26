@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
+* text=auto
 
+# Ignore node_modules in both frontend and backend
+node_modules export-ignore
+backend/node_modules export-ignore
+frontend/node_modules export-ignore
